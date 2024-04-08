@@ -29,8 +29,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![image](https://github.com/SandhiyaRajagopal/Square-root-of-a-number/assets/144870852/73d69cc0-a1c6-4c3f-a82d-a385e3a817a2)
-
+![Screenshot (150)](https://github.com/SandhiyaRajagopal/Square-root-of-a-number/assets/144870852/0897d299-6a2e-4821-a783-678e12d14395)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
